@@ -12,7 +12,7 @@ Even the code on the sign is pretty impressive for someone who hasn't written HT
 This repo is the place to do that, and who knows if you are kind enough on your issues, she might be up for a patched version.
 
 ### Translation
-*ei mainoksia"* = no ads! (Finnish)
+*ei mainoksia* = no ads! (Finnish)
 
 *ingen reklam!* = no ads! (Swedish)
 
